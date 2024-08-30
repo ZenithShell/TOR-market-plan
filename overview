@@ -1,0 +1,131 @@
+### **Tor Marketplace Template**
+
+**1. Welcome Page**
+
+- **Marketplace Name:**
+  - Phantom Exchange
+
+- **Introduction:**
+  - Welcome to Phantom Exchange, a secure and anonymous marketplace where you can trade goods and services with complete privacy.
+
+- **Important Notice:**
+  - Ensure you are using a secure PGP key to communicate.
+  - Only access this marketplace through Tor for maximum anonymity.
+  
+
+**2. User Registration**
+
+- **Sign Up:**
+  - Username: [Enter Username]
+  - Password: [Enter Password]
+  - PGP Public Key: [Paste Your PGP Public Key]
+  - CAPTCHA: [Enter CAPTCHA]
+
+- **Login:**
+  - Username: [Enter Username]
+  - Password: [Enter Password]
+  - CAPTCHA: [Enter CAPTCHA]
+
+- **Account Security:**
+  - Two-Factor Authentication via PGP.
+  - Optional security questions.
+
+**3. Dashboard**
+
+- **User Profile:**
+  - View/Update PGP Public Key.
+  - Manage account settings.
+
+- **Marketplace Overview:**
+  - Browse categories (e.g., electronics, digital goods, etc.).
+  - Search for products/services.
+
+- **Messages:**
+  - View encrypted messages.
+  - Send encrypted messages using PGP.
+  - Auto-encryption of messages with recipient's public key.
+
+**4. Product Listings**
+
+- **Create a New Listing:**
+  - Title: [Enter Title]
+  - Description: [Enter Description]
+  - Category: [Select Category]
+  - Price: [Enter Price in Cryptocurrency]
+  - PGP Encrypted Terms: [Optional Encrypted Message]
+  - Upload Image: [Attach Image File]
+  - Shipping Options: [Choose Shipping Method]
+
+- **View Listings:**
+  - Product Title
+  - Seller’s Username (Optional Anonymity)
+  - Price (in Cryptocurrency)
+  - Description
+  - Buyer’s PGP Public Key Requirement: [Yes/No]
+
+**5. Payment Processing**
+
+- **Cryptocurrency Payment Integration:**
+  - Supported Currencies: Bitcoin, Monero, etc.
+  - Escrow Service: Automatic release upon transaction completion.
+
+- **Order Confirmation:**
+  - PGP Encrypted Confirmation Message.
+  - Tracking Information (if applicable).
+  - Dispute Resolution System.
+
+**6. Buyer/Seller Communication**
+
+- **Private Messaging System:**
+  - PGP encryption enforced for all messages.
+  - Auto-delete messages after a set period.
+  - Optional time-based message visibility.
+
+- **Order Inquiries:**
+  - Secure communication for order details.
+  - Dispute management with admin intervention.
+
+**7. Security Features**
+
+- **PGP Encryption for All Communications:**
+  - Mandatory use of PGP keys for registration and messaging.
+  - Support for generating PGP keys directly in the marketplace.
+
+- **Two-Factor Authentication (2FA):**
+  - PGP-based 2FA for critical account actions.
+
+- **Session Management:**
+  - Automatic session timeouts.
+  - IP address obfuscation through Tor.
+
+- **Marketplace Rules and Guidelines:**
+  - List prohibited items/services.
+  - Code of conduct for buyers and sellers.
+  - Instructions for reporting suspicious activities.
+
+**8. Admin Panel (Hidden)**
+
+- **User Management:**
+  - View/Edit/Delete user accounts.
+  - Reset PGP keys or passwords.
+
+- **Marketplace Settings:**
+  - Configure categories, payment methods, and encryption protocols.
+  - Manage escrow settings and dispute resolution protocols.
+
+- **Security Audits:**
+  - Regular checks on PGP key integrity.
+  - Monitoring for potential breaches.
+
+**9. Support and FAQ**
+
+- **Frequently Asked Questions:**
+  - How to use PGP.
+  - How to buy/sell on the marketplace.
+  - Troubleshooting common issues.
+
+- **Support Tickets:**
+  - PGP encrypted ticket submissions.
+  - Response time estimates.
+
+---
